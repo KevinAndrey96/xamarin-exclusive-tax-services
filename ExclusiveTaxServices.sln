@@ -1,0 +1,59 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETaxS.Android", "ETaxS\ETaxS.Android\ETaxS.Android.csproj", "{E1724A53-7F26-4F98-AEDF-B4DDE9F23564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETaxS.iOS", "ETaxS\ETaxS.iOS\ETaxS.iOS.csproj", "{E0747A36-C530-46C9-95A8-5B8905560760}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETaxS", "ETaxS\ETaxS\ETaxS.csproj", "{B700B28B-D9A8-4F29-9DB8-BA940BF1D980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalTax.Android", "PortalTax\PortalTax.Android\PortalTax.Android.csproj", "{F50A6B96-31D3-487D-BF1D-699B67F7EFC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalTax.iOS", "PortalTax\PortalTax.iOS\PortalTax.iOS.csproj", "{82E603BB-370E-4571-AEDF-77BEB0C8CB13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalTax", "PortalTax\PortalTax\PortalTax.csproj", "{AA88226C-0454-4A68-A701-186B15DEF8F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|Any CPU = Release|Any CPU
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1724A53-7F26-4F98-AEDF-B4DDE9F23564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1724A53-7F26-4F98-AEDF-B4DDE9F23564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1724A53-7F26-4F98-AEDF-B4DDE9F23564}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E1724A53-7F26-4F98-AEDF-B4DDE9F23564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1724A53-7F26-4F98-AEDF-B4DDE9F23564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1724A53-7F26-4F98-AEDF-B4DDE9F23564}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E0747A36-C530-46C9-95A8-5B8905560760}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{E0747A36-C530-46C9-95A8-5B8905560760}.Debug|iPhone.Build.0 = Debug|iPhone
+		{E0747A36-C530-46C9-95A8-5B8905560760}.Release|iPhone.ActiveCfg = Release|iPhone
+		{E0747A36-C530-46C9-95A8-5B8905560760}.Release|iPhone.Build.0 = Release|iPhone
+		{B700B28B-D9A8-4F29-9DB8-BA940BF1D980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B700B28B-D9A8-4F29-9DB8-BA940BF1D980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B700B28B-D9A8-4F29-9DB8-BA940BF1D980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B700B28B-D9A8-4F29-9DB8-BA940BF1D980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F50A6B96-31D3-487D-BF1D-699B67F7EFC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50A6B96-31D3-487D-BF1D-699B67F7EFC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50A6B96-31D3-487D-BF1D-699B67F7EFC5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F50A6B96-31D3-487D-BF1D-699B67F7EFC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50A6B96-31D3-487D-BF1D-699B67F7EFC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F50A6B96-31D3-487D-BF1D-699B67F7EFC5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{82E603BB-370E-4571-AEDF-77BEB0C8CB13}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{82E603BB-370E-4571-AEDF-77BEB0C8CB13}.Debug|iPhone.Build.0 = Debug|iPhone
+		{82E603BB-370E-4571-AEDF-77BEB0C8CB13}.Release|iPhone.ActiveCfg = Release|iPhone
+		{82E603BB-370E-4571-AEDF-77BEB0C8CB13}.Release|iPhone.Build.0 = Release|iPhone
+		{AA88226C-0454-4A68-A701-186B15DEF8F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA88226C-0454-4A68-A701-186B15DEF8F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA88226C-0454-4A68-A701-186B15DEF8F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA88226C-0454-4A68-A701-186B15DEF8F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

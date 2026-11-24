@@ -1,0 +1,29 @@
+# Visual Studio and MonoDevelop
+.vs/
+*.user
+*.userprefs
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build Results and Binaries
+[Bb]in/
+[Oo]bj/
+[Pp]ackages/
+TestResults/
+*.apk
+*.aab
+*.dex
+
+# Release signing keys and secrets
+*.keystore
+*.keyInfo
+*.jks
+Key
+*.pfx
+*.p12
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
